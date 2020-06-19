@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #059be5;
+}
+
+.header{
+  color: #f8f8f8;
+  background-color: #0377bd;
+  width: 100%;
+}
+
+.container{
+  background-color: #f8f8f8;
+  width: auto;
+  height: auto;
+  margin: 2rem 12rem;
+  border-radius: 10px;
+}
+
+.card, .card-content{
+  background-color: #f8f8f8;
+  border-radius: 5px;
+}
+
+.btn{
+  margin: 5px;
+  border-radius: 4px;
+  color: #f8f8f8;
+  background-color: #ffa001;
+  width: 6rem;
+  height: auto;
+  box-shadow: 1px 1px 5px 0px rgba(56, 54, 54, 0.836);
+}
+
+.prueba{
+  border: none;
+  margin-right: 1rem;
+  width: 20rem;
+  box-shadow: 1px 1px 5px 0px rgba(56, 54, 54, 0.836);
+}
+
+.form-control{
+  margin-top: 10px;
+}
+
+.card-title{
+  width: auto;
+}
+
